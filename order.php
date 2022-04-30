@@ -147,6 +147,7 @@
                     //Check whether query executed successfully or not
                     if($res2==true)
                     {   
+            
                         
                         //Query Executed and Order Saved
                         $_SESSION['order'] = "<div class='success text-center'>Food Ordered Successfully.</div>";
