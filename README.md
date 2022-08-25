@@ -3,3 +3,5 @@
 • Implemented user and admin side pages to manage orders.
 • Implemented all CRUD operations.
 • Uses MySQl database to store data with the help of phpMyAdmin tool.# Canteen-Management-System
+
+#### Check out the website at https://rnsit-canteen-management.herokuapp.com
