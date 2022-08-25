@@ -69,6 +69,16 @@ a:hover{
     color: rgb(247, 241, 241);
     background-color: #1A374D;
 }
+
+.btn-danger {
+    background-color: #70dd76;
+    color: rgb(8, 8, 8);
+    cursor: pointer;
+}
+.btn-danger:hover {
+    color: rgb(247, 241, 241);
+    background-color: #055e14;
+}
 h2{
     color: #2f3542;
     font-size: 2rem;

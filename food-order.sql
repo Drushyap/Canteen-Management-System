@@ -22,8 +22,8 @@ SET time_zone = "+00:00";
 --
 
 DELIMITER $$
---
--- Procedures
+
+Procedures
 --
 CREATE DEFINER=`root`@`localhost` PROCEDURE `getOrders` ()  SELECT * FROM tbl_order ORDER BY id DESC$$
 

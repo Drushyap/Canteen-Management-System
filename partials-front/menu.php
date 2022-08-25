@@ -33,6 +33,9 @@
                     <li class="<?php if($page=="food"){?>active<?php }?>">
                         <a class="nav-text" href="<?php echo SITEURL; ?>foods.php">Foods</a>
                     </li>
+                    <li class="<?php if($page=="cart"){?>active<?php }?>">
+                        <a class="nav-text" href="<?php echo SITEURL; ?>cart.php">Cart</a>
+                    </li>
                 </ul>
             </div>
 
